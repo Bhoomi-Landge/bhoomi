@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bhoomi Landge!  
+ 👋 Hi there, I'm Bhoomi Landge!  
 🎓 An IT student at Don Bosco Institute of Technology, passionate about building engaging web applications
 
 ---
